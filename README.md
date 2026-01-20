@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio! Sou desenvolvedor front-end focado em automação, 
 
 ## 📋 Sobre Mim
 
-Nasci em 1999 e sou do interior de São Paulo. Trabalho com Automatização e Programação desde 2020. Recentemente concluí o curso de **Análise e Desenvolvimento de Software**, onde desenvolvi habilidades em HTML, CSS, JavaScript.
+Nasci em 1999 e sou do interior de São Paulo. Trabalhei em Automação em Campo desde 2020 e, atualmente, se aperfeiçoando em Desenvolvimento front-end. Recentemente concluí o curso de **Análise e Desenvolvimento de Software**, onde desenvolvi habilidades em HTML, CSS, JavaScript.
 
 Estou buscando oportunidades para aplicar meu conhecimento e crescer profissionalmente.
 
